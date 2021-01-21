@@ -1,0 +1,4 @@
+To activate venv in cmd 
+
+    kivy_venv\Scripts\activate
+
